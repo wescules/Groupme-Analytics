@@ -1,10 +1,6 @@
 import json, re, collections, sys
 from collections import defaultdict
 
-"""
-File: groupme-analysis.py
-Author: Ryan Dennehy <rmd5947 @ rit.edu>
-"""
 
 # Changes the ordering of the output, 
 # e.g. from alphabetical order to likes
