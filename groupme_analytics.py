@@ -4,7 +4,7 @@ import re
 import sys
 from pprint import pprint
 
-at = "kAZbsItBcTqgSi0GbKkTBnruHxH4AfjRijrlJsOV"  # this is a global variable that stores the API token
+at = "Groupme-ACCESS_TOKEN"  # this is a global variable that stores the API token
 
 
 def menu():
